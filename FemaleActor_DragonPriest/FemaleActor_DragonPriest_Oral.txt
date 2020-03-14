@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{ACTIVE} forces its {COCK} inside my {MOUTH}.",
+        "I {MOAN} in {PAIN} as {ACTIVE} {INSERT}s its {COCK} inside my {MOUTH}.",
+        "Unable to {STRUGGLE} any longer, {ACTIVE} {INSERT}s its {COCK} inside my {MOUTH}.",
+        "{SWEARING}! My {MOUTH} is being {RAP}ed!"
+    ],
+    "2nd Person": [
+        "{ACTIVE} forces its {COCK} inside your {MOUTH}.",
+        "You {MOAN} in {PAIN} as {ACTIVE} {INSERT}s its {COCK} inside your {MOUTH}.",
+        "Unable to {STRUGGLE} any longer, {ACTIVE} {INSERT}s its {COCK} inside your {MOUTH}.",
+        "{SWEARING}! Your {MOUTH} is being {RAP}ed!"
+    ],
+    "3rd Person": [
+        "{ACTIVE} forces its {COCK} inside {PRIMARY}'s {MOUTH}.",
+        "{PRIMARY} {MOAN}s in {PAIN} as {ACTIVE} {INSERT}s its {COCK} inside her {MOUTH}.",
+        "Unable to {STRUGGLE} any longer, {ACTIVE} {INSERT}s its {COCK} inside {PRIMARY}'s {MOUTH}.",
+        "{SWEARING}! {PRIMARY}'s {MOUTH} is being {RAP}ed!"
+    ]
+}

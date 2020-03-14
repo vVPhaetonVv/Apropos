@@ -1,0 +1,32 @@
+{
+    "1st Person": [
+        "The {ACTIVE} holds me tightly by the waist, and shoves his {BEASTLY} {COCK} into my {ASSHOLE}.",
+        "Held painfully by the {MONSTER}'s wicked claws, I feel my {BUTTOCKS} spread {ROUGH}ly as it enters me from behind.",
+        "I tense, feeling immense pressure at my {ASSHOLE}, followed by a sharp {PAIN} as the bulge forces its way inside.",
+        "I {SCREAM} as the head nestles between my cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} {SLOW}ly shoves his {COCK} past my {ASSHOLE} and inside. I {SCREAM} and then {SCREAM} in {PAIN}.",
+        "As the {ACTIVE} presses harder and harder, I reluctantly relax my {ASSHOLE} and he {PENETRAT}es inside.",
+        "My {ASSHOLE} juts upwards, round, {HEAVING} and flawless, and vulnerably presented to my monstrous attacker.",
+        "I forget that my attacker is just a man, with a man's perversions, and he takes me in the {ASSHOLE}.",
+        "{PLEADING}... not my {PUSSY}... I'll do anything... I'll... I'll... {ACCEPT} it in the {ASSHOLE}!"
+    ],
+    "2nd Person": [
+        "The {ACTIVE} holds you tightly by the waist, and shoves his {BEASTLY} {COCK} into your {ASSHOLE}.",
+        "Held painfully by the {MONSTER}'s wicked claws, you feel your {BUTTOCKS} spread {ROUGH}ly as it enters you from behind.",
+        "You tense, feeling immense pressure at your {ASSHOLE}, followed by a sharp {PAIN} as he forces his way inside.",
+        "You {SCREAM} as the head nestles between your cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} {SLOW}ly shoves his {COCK} past your {ASSHOLE} and inside. You {SCREAM} and then {SCREAM} in {PAIN}.",
+        "As the {ACTIVE} presses harder and harder, you reluctantly relax your {ASSHOLE} and he {PENETRAT}es inside.",
+        "Your {ASSHOLE} juts upwards, round, {HEAVING} and flawless, and vulnerably presented to your monstrous attacker.",
+        "You forget that your attacker is just a man, with a man's perversions, and he takes you in the {ASSHOLE}.",
+        "({PRIMARY}) {PLEADING}... not my {PUSSY}... I'll do anything... I'll... I'll... {ACCEPT} it in the {ASSHOLE}!"
+    ],
+    "3rd Person": [
+        "The {ACTIVE} holds {PRIMARY} tightly by the waist, and shoves his {BEASTLY} {COCK} into her {ASSHOLE}.",
+        "{PRIMARY} tries to run, but the {ACTIVE} is too fast. It grabs hold, and enters her.",
+        "Held painfully by the {MONSTER}'s claws, {PRIMARY} feels her {BUTTOCKS} spread {ROUGH}ly as it enters her from behind.",
+        "{PRIMARY} {SCREAM}s as the head nestles between her cheeks. Roughly he pushes the head inside.",
+        "The {ACTIVE} {SLOW}ly shoves his {COCK} past her {ASSHOLE} and inside. {PRIMARY} {MOAN}s and then {SCREAM}s in {PAIN}.",
+        "As the {ACTIVE} presses harder and harder, {PRIMARY} reluctantly relaxes her {ASSHOLE} and he {PENETRAT}es inside."
+    ]
+}

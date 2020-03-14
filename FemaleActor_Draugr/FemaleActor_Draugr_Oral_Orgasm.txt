@@ -1,0 +1,20 @@
+{
+    "1st Person": [
+        "{ACTIVE} fills my {MOUTH} with its {VILE} {CUM}.",
+        "I {MOAN} as {ACTIVE} {EJACULATE}s {CUM} inside me.",
+        "{ACTIVE}'s {VILE} {CUM} fills my {MOUTH}.",
+        "Noooo! My {MOUTH} is being filled with {CUM}."
+    ],
+    "2nd Person": [
+        "{ACTIVE} fills your {MOUTH} with its {VILE} {CUM}.",
+        "You {MOAN} as {ACTIVE} {EJACULATE}s {CUM} inside you.",
+        "{ACTIVE}'s {VILE} {CUM} fills your {MOUTH}.",
+        "Noooo! Your {MOUTH} is being filled with {CUM}."
+    ],
+    "3rd Person": [
+        "{ACTIVE} fills {PRIMARY}'s {MOUTH} with its {VILE} {CUM}.",
+        "{PRIMARY} {MOAN}s as {ACTIVE} {EJACULATE}s {CUM} inside her.",
+        "{ACTIVE}'s {VILE} {CUM} fills {PRIMARY}'s {MOUTH}.",
+        "Noooo! {PRIMARY}'s {MOUTH} is being filled with {CUM}."
+    ]
+}

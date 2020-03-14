@@ -1,0 +1,43 @@
+{
+    "1st Person" :
+    [
+        "I'm beside myself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "{ACTIVE}'s {COCK} feels hot and hard in my hand, and my {CREAM} drips down my legs as I think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is {MOAN}ing! Guess she wants to get {FUCK}ed...",
+        "Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "I like you, you're cute. You can do anything you want to me. And I do mean anything!",
+        "Wow, your {COCK} is still hard! Do you think you have what it takes to satisfy me?",
+        "No fair... You're getting me way too {HORNY}...",
+        "I try every trick I know to make him {EJACULATE}, desperate to finish him off before he decides to {FUCK} me.",
+	"({PRIMARY}) PLEASE let me {SUCK} your {COCK} and then nut in my face!",
+	"As I {WANK} his {COCK} I can feel his {LOVE} for me in the way he brushes my hair from my face."
+    ],
+    "2nd Person" :
+    [
+        "You're beside yourself with {LUST} now, desperate to climb onto {ACTIVE}'s {COCK}, and he knows it.",
+        "({PRIMARY}) Mmmm... {SWEARING}... Could you... {FUCK} me? Please...? You can do it in any {HOLE}...",
+        "{ACTIVE}'s {COCK} feels hot and hard in your hand, and your {CREAM} drips down your legs as you think about it.",
+        "({ACTIVE}) Hah, this {BITCH} is {MOAN}ing! Guess she wants to get {FUCK}ed...",
+        "({PRIMARY}) Where do you want to {EJACULATE}? In my {MOUTH} or across my {BOOBS}? Or maybe... right up my {PUSSY}?",
+        "({PRIMARY}) I like you, you're cute. You can do anything you want to me. And I do mean anything!",
+        "({PRIMARY}) Wow, your {COCK} is still hard! Do you think you have what it takes to satisfy me?",
+        "({PRIMARY}) No fair... You're getting me way too {HORNY}.",
+        "You try every trick you know to make him {EJACULATE}, desperate to finish him off before he decides to {FUCK} you.",
+	"({PRIMARY}) PLEASE let me {SUCK} your {COCK} and then nut in my face!",
+	"As you {WANK} his {COCK} you can feel his {LOVE} for you in the way he brushes your hair from your face."
+    ],
+    "3rd Person" :
+    [
+        "{PRIMARY} looks even more {HORNY} than {ACTIVE} does...",
+        "{PRIMARY}'s mouth is hanging open and she's {MOAN}ing. Well, that does look like a really nice {COCK}...",
+        "The look on {PRIMARY}'s face is clear, and in a moment she's going to take {ACTIVE} inside her.",
+	"({PRIMARY}) PLEASE let me {SUCK} your {COCK} and then nut in my face!",
+	"({PRIMARY}) My {MFAMILY} uses skooma and he says it tastes better recently. I've been putting your {CUM} in it!",
+	"You're not sure which is sexier...that {MAROUSAL} {COCK} or her soft hands {WANK}ing it.",
+	"{PRIMARY} is {WANK}ing her {FFAMILY}'s {MFAMILY}'s {COCK}, but she can't control herself!",
+	"({PRIMARY}) Tell me I can {SUCK} other guys' {COCK}s and I'll let you cum.",
+	"({PRIMARY}) Tell me you want to {SUCK} other guys' {COCK}s and I'll let you cum.",
+	"({PRIMARY}) I can't {WANK} you all night; I have to go meet my {MFAMILY}'s parents!"
+    ]
+}

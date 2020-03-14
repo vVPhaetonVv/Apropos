@@ -1,0 +1,30 @@
+{
+    "1st Person" :
+    [
+        "That's a good boy... Relax, and I'll make you feel really good!",
+        "I kneel beside {ACTIVE}, one hand stroking his fur, the other stroking his {BEASTLY} {COCK}.",
+        "{ACTIVE} seems calm as I reach out and {GENTLY} {ACCEPT} his {COCK} in my hand.",
+        "Oh my... {ACTIVE}'s {COCK} feels so {SLIMY} and hot... I'm getting wet just from the feel of it!",
+        "Timidly, I reach underneath {ACTIVE}. Oh my, his {COCK} is {HUGE}! I can feel it throbbing in my hand...",
+        "I {GENTLY} {WANK} {ACTIVE}'s {BEASTLY} {COCK} up and down, my {PUSSY} tingling each time I touch the knot.",
+        "Um... I really shouldn't be doing this with a wolf... and I really shouldn't go any further...",
+        "What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "2nd Person" :
+    [
+        "({PRIMARY}) That's a good boy... Relax, and I'll make you feel really good!",
+        "You kneel beside {ACTIVE}, one hand stroking his fur, the other stroking his {BEASTLY} {COCK}.",
+        "{ACTIVE} seems calm as you reach out and {GENTLY} {ACCEPT} his {COCK} in your hand.",
+        "Oh my... {ACTIVE}'s {COCK} feels so {SLIMY} and hot... You're getting wet just from the feel of it!",
+        "Timidly, you reach underneath {ACTIVE}. Oh my, his {COCK} is {HUGE}! You can feel it throbbing...",
+        "You {GENTLY} {WANK} {ACTIVE}'s {BEASTLY} {COCK}, your {PUSSY} tingling each time you touch the knot.",
+        "Um... you really shouldn't be doing this with a wolf... and you really shouldn't go any further...",
+        "({PRIMARY}) What a cute doggie! I shouldn't really, but... I wonder if he'd like a treat..."
+    ],
+    "3rd Person" :
+    [
+        "Watching {PRIMARY} on her knees, giving a wolf a handjob... It's such a turn on...",
+        "Just imagining what {PRIMARY}'s going to do with that {BEASTLY} {COCK} is arousing.",
+        "{PRIMARY} kneels down, {GENTLY} {WANK}ing {ACTIVE}'s {BEASTLY} {COCK}."
+    ]
+}

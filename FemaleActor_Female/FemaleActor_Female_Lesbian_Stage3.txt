@@ -1,0 +1,25 @@
+{
+	"1st Person" :
+	[
+		"({ACTIVE}) My {MFAMILY} wants to {FUCK} you; he's going to be disappointed to find out you like pussy.",
+		"Lesbians are so much better at eating pussy than men are.",
+		"I want her {PUSSY} and {CREAM} everywhere on my body. I want to smell like her for the next week.",
+		"Her {PUSSY} is just as {TASTY} as I hoped it would be."
+	],
+	"2nd Person" :
+	[
+		"({ACTIVE}) My {MFAMILY} wants to {FUCK} you; he's going to be disappointed to find out you like pussy.",
+		"Lesbians are so much better at eating pussy than men are.",
+		"You want her {PUSSY} and {CREAM} everywhere on your body. You want to smell like her for the next week.",
+		"Her {PUSSY} is just as {TASTY} as you hoped it would be."
+	],
+	"3rd Person" :
+	[
+		"({ACTIVE}) My {MFAMILY} wants to {FUCK} you; he's going to be disappointed to find out you like pussy.",
+		"Lesbians are so much better at eating pussy than men are.",
+		"({PRIMARY}) I want your {PUSSY} and {CREAM} everywhere on my body. I want to smell like you for the next week.",
+		"({ACTIVE}) I want your {PUSSY} and {CREAM} everywhere on my body. I want to smell like you for the next week.",
+		"({PRIMARY}) Your {PUSSY} is just as {TASTY} as I hoped it would be.",
+		"({ACTIVE}) Her {PUSSY} is just as {TASTY} as I hoped it would be."
+	]
+}

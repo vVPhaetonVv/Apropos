@@ -27,57 +27,41 @@
     {
         "level0" :
         [
-            "dry",
-            "unprepared",
-            "tiny",
-            "unprotected",
-            "tight",
-            "fresh",
-            "taut",
-            "fertile"
+            "сух",
+            "узеньк",
+            "беззащитн",
+            "туг",
+            "свеж",
+            "плодородн"
         ],
         "level1" :
         [
-            "slick",
-            "damp",
-            "sopping",
-            "quivering",
-            "fertile",
-            "willing",
-            "warm",
-            "lubricated",
-            "ready"
+            "гладк",
+            "влажн",
+            "мокреньк",
+            "плодородн",
+            "теплень"
         ],
         "level2" :
         [
-            "wet",
-            "slippery",
-            "hot",
-            "dirty",
-            "hungry",
-            "trembling",
-            "sodden",
-            "waiting",
-            "burning"
+            "мокр",
+            "скользк",
+            "горяч",
+            "грязн",
+            "ждущ"
         ],
         "level3" :
         [
-            "dirty",
-            "dripping",
-            "drenched",
-            "needy",
-            "oozing",
-            "soaking",
-            "inflamed"
+            "грязн",
+            "сочн",
+            "пылающ"
         ],
         "level4" :
         [
-            "aching",
-            "gushing",
-            "steaming",
-            "desperate",
-            "convulsing",
-            "throbbing"
+            "ноющ",
+            "изнывающ",
+            "горяч",
+            "подрагивающ"
         ]
     },
     "{MAROUSAL}" :

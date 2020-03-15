@@ -523,9 +523,9 @@
 		"throat"
 	],
 	"{NUDE}": [
-		"bare",
-		"defenseless",
-		"exposed",
+		"гол",
+		"обнажен",
+		"открыт",
 		"helpless",
 		"naked",
 		"nude",

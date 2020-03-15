@@ -1,7 +1,7 @@
 {
     "1st Person" :
     [
-        "The whole sight and idea of the act is very exciting. "
+        "Этот вид выглядит очень возбуждающе."
     ],
     "2nd Person" :
     [

@@ -1,8 +1,8 @@
 {
     "1st Person" :
     [
-        "{ACTIVE}'s {BOOBS} look good, I have to admit, although I think mine are better.",
-        "If I was {ACTIVE}, I'd be topless all the time. I'm so envious of her {BOOBS}."
+        "{BOOBS}и {ACTIVE}  выглядят сексуально, хотя, я думаю, что мои лучше.",
+        "Если бы я была на месте {ACTIVE}, то я бы ходила все время топлесс. Я завидую ее {BOOBS}ам."
     ],
     "2nd Person" :
     [

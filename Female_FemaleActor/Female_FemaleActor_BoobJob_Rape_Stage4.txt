@@ -1,11 +1,11 @@
 {
     "1st Person" :
     [
-        "I stare up into {ACTIVE}'s face, looking for any evidence that she won't degrade me further.",
-        "Even though I'm being forced to do this, my fingers pound into my {FAROUSAL} {PUSSY}.",
-        "I hang on to {ACTIVE} as I desperately pump my {BOOBS} around her toy.",
-        "Never breaking eye contact, {ACTIVE} completely dominates me.",
-        "My legs are spread open, my {FAROUSAL} {PUSSY} on display..."
+        "Я пристально смотрю в лицо {ACTIVE}, ища любое признаки того, что меня не станут унижать дальше.",
+        "Даже несмотря на то, что меня заставляют это делать, мои пальцы обильно проникают в мою {FAROUSAL}ую {PUSSY}у.",
+        "Я держусь за {ACTIVE} и отчаянно наяриваю своими {BOOBS}ами его игрушку",
+        "Не отводя с меня глаз, {ACTIVE} полностью доминирует надо мной.",
+        "Мои ноги широко раздвинуты, и моя {FAROUSAL}ая {PUSSY}а выставлена напоказ..."
     ],
     "2nd Person" :
     [

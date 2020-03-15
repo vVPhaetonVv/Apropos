@@ -1,44 +1,44 @@
 {
     "1st Person" :
     [
-        "I lie down and make myself comfortable, my legs spread for him. He wastes no time.",
-        "I move one leg to the side, spread just enough that {ACTIVE} can enter me.",
-        "{ACTIVE} very {SLOW}ly eases his {COCK} in and out of my {FAROUSAL} {PUSSY}.",
-        "{ACTIVE} doesn't even wait for me to spread out for him, he just climbs on top of me and pushes in.",
-        "{ACTIVE} looms over me, and I smile as he starts {INSERT}ing his {COCK} steadily into my {PUSSY}.",
-        "I don't spread my legs wide enough for {ACTIVE} to {FUCK} me too deep. Not yet, anyway.",
-        "I recline comfortably, content to let {ACTIVE} do all the work.",
-        "I prop myself up, smiling up at this big hard man {FUCK}ing steadily into my {PUSSY}.",
-        "I thoroughly enjoy myself, thrilling in having a big strong man service me for a change!",
-        "What...? Only the {COCKHEAD}? Baby please... {FUCK} me... put it all the way in...! I neeeeed it!",
-        "I spread my legs, baring everything to {ACTIVE}. I'm so hot and {WET} and open for you, I {MOAN}.",
-        "If you give me twenty septims, I'll call you {MFAMILY} right before you {EJACULATE} in me.",
-        "I have a hung guy and nothing in the world to do but fuck like a {BITCH}. It's wonderful!",
-        "({ACTIVE}) C'mon, {BITCH}, spread your legs for me!"
+        "Я ложусь и чувствую себя комфортно, мои ноги раздвинуты для него. Он не теряет времени».",
+        "Я перевожу одну ногу в сторону, раскинув ее настолько, чтобы {ACTIVE} мог войти в меня”.",
+        "{ACTIVE} очень {SLOW} облегчает его {COCK} вход и выход из моего {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} даже не ждет, когда я разложусь для него, он просто взбирается на меня и толкает внутрь.",
+        "{ACTIVE} нависает над мной, и я улыбаюсь, когда он начинает {INSERT} неуклонно вставлять {COCK} в мою {PUSSY}.",
+        "Я не раздвигаю ноги достаточно широко, чтобы {ACTIVE} мог {FUCK} меня слишком глубоко. Во всяком случае, пока.",
+        "Я удобно откидываюсь, довольствуясь тем, чтобы {ACTIVE} делал всю работу.",
+        "Я подпираю себя, улыбаюсь этому большому, крепкому мужчине {FUCK}, неуклонно врезающемуся в мою {PUSSY}.",
+        "Я полностью наслаждаюсь собой, волнуясь, что большой сильный человек служит мне для разнообразия!.",
+        "Что ...? Только {COCKHEAD}? Детка, пожалуйста ... {FUCK} меня ... вставь все до конца ...! Мне это нужно!.",
+        "Я раздвинула ноги, обнажая все для {ACTIVE}. Я такая горячая и {WET} и открыта для тебя, я {MOAN}.",
+        "Если вы дадите мне двадцать септимов, я позвоню вам {MFAMILY} прямо перед вами {EJACULATE} во мне.",
+        "У меня есть поверженный парень, и в мире мне нечего делать, кроме как трахаться, как {BITCH}. Это замечательно!.",
+        "({ACTIVE}) Да ладно, {BITCH}, раздвинь мне ноги!"
     ],
     "2nd Person" :
     [
-        "You lie down and make yourself comfortable, your legs spread for him. He wastes no time.",
-        "You move one leg to the side, spread just enough that {ACTIVE} can enter you.",
-        "{ACTIVE} very {SLOW}ly eases his {COCK} in and out of your {FAROUSAL} {PUSSY}.",
-        "{ACTIVE} doesn't even wait for you to spread out for him, he just climbs on top of you and pushes in.",
-        "{ACTIVE} looms over you, and you smile as he starts {INSERT}ing his {COCK} steadily into your {PUSSY}.",
-        "You don't spread your legs wide enough for {ACTIVE} to {FUCK} you too deep. Not yet, anyway.",
-        "You recline comfortably, content to let {ACTIVE} do all the work.",
-        "You prop yourself up, smiling up at this big hard man {FUCK}ing steadily into your {PUSSY}.",
-        "You thoroughly enjoy yourself, thrilling in having a big strong man service you for a change!",
-        "({PRIMARY}) What...? Only the {COCKHEAD}? Baby please... {FUCK} me... put it all the way in...! I neeeeed it!",
-        "You spread your legs, baring everything to {ACTIVE}. I'm so hot and {WET} and open for you, you {MOAN}.",
-        "({PRIMARY}) If you give me twenty septims, I'll call you {MFAMILY} right before you {EJACULATE} in me.",
-        "You have a hung guy and nothing in the world to do but fuck like a {BITCH}. It's wonderful!",
-        "({ACTIVE}) C'mon, {BITCH}, spread your legs for me!"
+        "Вы ложитесь и устраиваетесь поудобнее, ваши ноги раздвинуты для него. Он не теряет времени.",
+        "Вы перемещаете одну ногу в сторону, раскинувшись настолько, чтобы {ACTIVE} мог войти в вас.",
+        "{ACTIVE} очень {SLOW} облегчает его {COCK} вход и выход из вашего {FAROUSAL} {PUSSY}.",
+        "{ACTIVE} даже не ждет, когда вы его разложите, он просто взбирается на вас и толкает.",
+        "{ACTIVE} нависает над тобой, и ты улыбаешься, когда он начинает {INSERT} неуклонно вставлять {COCK} в твою {PUSSY}.",
+        "Вы не раздвигаете ноги достаточно широко, чтобы {ACTIVE} мог {FUCK} вас слишком глубоко. Во всяком случае, пока.",
+        "Вы удобно откидываетесь, контент, позволяющий {ACTIVE} делать всю работу.",
+        "Вы поддерживаете себя, улыбаетесь этому большому твердому мужчине {FUCK}, неуклонно врезающемуся в вашу {PUSSY}.",
+        "Вы полностью наслаждаетесь, волнуясь, что большой сильный человек обслуживает вас для разнообразия!",
+        "({PRIMARY}) Что ...? Только {COCKHEAD}? Детка, пожалуйста ... {FUCK} меня ... вставь все до конца ...! Я нуждалась в этом!",
+        "Вы раздвигаете ноги, обнажая все до {ACTIVE}. Я такой горячий и {WET} и открыт для тебя, ты {MOAN}.",
+        "({PRIMARY}) Если вы дадите мне двадцать септимов, я позвоню вам {MFAMILY} прямо перед вами {EJACULATE} во мне.",
+        "У тебя есть голодный парень, и тебе нечего делать, кроме как ебать как {BITCH}. Это замечательно!",
+        "({ACTIVE}) Да ладно, {BITCH}, раздвинь ноги для меня!"
     ],
     "3rd Person" :
     [
-        "{ACTIVE} seems a little frustrated, trying to get a better angle to {FUCK} a little deeper.",
-        "{PRIMARY} is obviously enjoying the attention, smiling as {ACTIVE} {FUCK}s her {SLOW}ly.",
-        "{PRIMARY} seems relaxed, her legs only spread slightly as {ACTIVE} {INSERT}s inside her.",
-        "That looks good, a {LEWD} little {BITCH} letting a big strong man do all the work!",
-        "It looks deliciously decadent, {PRIMARY} relaxing while {ACTIVE} services her!"
+        "{ACTIVE} кажется немного расстроенным, пытаясь получить лучший угол к {FUCK} немного глубже.",
+        "{PRIMARY} явно наслаждается вниманием, улыбаясь {ACTIVE} {FUCK} ей {SLOW}.",
+        "{PRIMARY} кажется расслабленным, ее ноги лишь слегка раздвинуты, как {ACTIVE} {INSERT} внутри нее.",
+        "Это выглядит хорошо, {LEWD} маленькая {BITCH}, позволяющая большому сильному человеку делать всю работу!",
+        "Выглядит восхитительно декадентски, {PRIMARY} расслабляется, пока {ACTIVE} обслуживает ее!"
     ]
 }

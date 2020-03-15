@@ -1,20 +1,20 @@
 {
     "1st Person": [
-        "Good, no one else in sight... I hop up onto the crate, spreading my legs as I beckon the {ACTIVE} forward... time for some fun...",
-        "A very dirty idea comes to mind as I realise I'm all alone here with {ACTIVE}... This crate even looks to be the perfect height...",
-        "Spreading my {NUDE} legs wide, I watch with nervous {LUST} as the {ACTIVE} approaches, drawn in by the scent of my arousal...",
-        "With one last glance to make sure we're alone, I spread my legs and lean back, {DISPLAY}ing my {PUSSY} completely for my next partner."
+        "Хорошо, больше никого нет поблизости... Я залезаю на ящик и раздвигаю ноги, подманивая {ACTIVE} ... пора немного развлечься...",
+        "Очень грязная идея приходит ко мне на ум, когда я понимаю, что я наедине с {ACTIVE}... Похоже этот ящик как раз подходящей высоты...",
+        "Широко разведя ноги и немного нервничая, я наблюдаю, как приближается {ACTIVE}, привлеченный ароматом моего возбуждения...",
+        "Ещё раз убедившись, что мы одни, я раздвигаю ноги и откидываюсь назад, полностью открывая свою {PUSSY}у моему очередному партнеру."
     ],
     "2nd Person": [
-        "Good, no one else in sight... You hop up onto the crate, spreading your legs as you beckon the {ACTIVE} forward... time for some fun...",
-        "A very dirty idea comes to mind as you realise you're all alone with {ACTIVE}... This crate even looks to be the perfect height...",
-        "Spreading your {NUDE} legs wide, you watch with nervous {LUST} as the {ACTIVE} approaches, drawn in by the scent of your arousal...",
-        "With one last glance to make sure you're alone, you spread your legs, {DISPLAY}ing your {PUSSY} completely for your next partner."
+        "Хорошо, больше никого нет поблизости... Ты залезаешь на ящик и раздвигаешь ноги, подманивая {ACTIVE}... пора немного развлечься...",
+        "Очень грязная идея приходит на ум, когда ты понимаешь, что ты наедине с {ACTIVE}... Похоже этот ящик как раз подходящей высоты...",
+        "Широко разведя свои ноги и немного нервничая, ты наблюдаешь, как приближается {ACTIVE}, привлеченный ароматом твоего возбуждения...",
+        "Ещё раз убедившись, что вы одни, ты раздвигаешь ноги и откидываешься назад, полностью открывая свою {PUSSY}у очередному партнеру."
     ],
     "3rd Person": [
-        "Good, no one else in sight... {PRIMARY} hops up onto the crate, spreading her legs as she beckons the {ACTIVE} forward... time for some fun...",
-        "A very dirty idea comes to {PRIMARY}'s mind as she realises she's all alone with {ACTIVE}... This crate even looks to be the perfect height...",
-        "Spreading {PRIMARY}'s {NUDE} legs wide, she watches with nervous {LUST} as the {ACTIVE} approaches, drawn in by the scent of {PRIMARY}'s arousal...",
-        "With one last glance to make sure she's alone, {PRIMARY} spreads her legs, {DISPLAY}ing her {PUSSY} completely for her next partner."
+        "Хорошо, больше никого нет поблизости... {PRIMARY} залезает на ящик и раздвигает ноги, подманивая {ACTIVE}... пора немного развлечься...",
+        "Очень грязная идея приходит {PRIMARY} на ум, когда она понимает, что она наедине с {ACTIVE}... Похоже этот ящик как раз подходящей высоты...",
+        "Широко разведя ноги и немного нервничая,{PRIMARY} наблюдает, как приближается {ACTIVE}, привлеченный ароматом возбуждения {PRIMARY}...",
+        "Ещё раз убедившись, что она одна, {PRIMARY} раздвигает ноги и откидывается назад, полностью открывая свою {PUSSY}у очередному партнеру."
     ]
 }

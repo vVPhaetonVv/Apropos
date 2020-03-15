@@ -745,16 +745,15 @@
 		"thick"
 	],
 	"{SLOW}": [
-		"deliberate",
-		"gradual",
-		"hesitant",
-		"languid",
-		"lethargic",
-		"quiet",
-		"slow",
-		"sluggish",
-		"unhurried"
-	],    
+		"осторожно",
+		"постепенно",
+		"неспешно",
+		"медленно",
+		"неспешно",
+		"медленно",
+		"понемногу",
+		"момалу"
+	],   
 	"{SODOMIZE}": [
 		"ass-fuck",
 		"butt-fuck",

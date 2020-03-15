@@ -2,16 +2,16 @@
     "1st Person" :
     [
         "{ACTIVE} хочет {FUCK} мою {ASSHOLE} все больше!",
-	"{SWEARING}, this is good!  I need to keep this thing in my {ASSHOLE}!"
+	"{SWEARING}, это хорошо!  Я хочу насладиться этой штукой в своей {ASSHOLE}!"
     ],
     "2nd Person" :
     [
-        "{ACTIVE} wants to {FUCK} your {ASSHOLE} more!",
-	"{SWEARING}, this is good!  You need to keep this thing in your {ASSHOLE}!"
+        "{ACTIVE} хочет {FUCK} мою {ASSHOLE} все больше!",
+	"{SWEARING}, это хорошо!  Я хочу насладиться этой штукой в своей {ASSHOLE}!"
     ],
     "3rd Person" :
     [
-        "{ACTIVE} wants to {FUCK} {PRIMARY}'s {ASSHOLE} more!",
-	"({PRIMARY}) {SWEARING}, this is good!  I need to keep this thing in my {ASSHOLE}!"
+        "{ACTIVE} хочет {FUCK} {PRIMARY} {ASSHOLE} все больше!",
+	"({PRIMARY}) {SWEARING}, это хорошо!  Я хочу насладиться этой штукой в своей {ASSHOLE}!"
     ]
 }

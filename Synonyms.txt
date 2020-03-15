@@ -789,9 +789,9 @@
 		"rod"
 	],
 	"{STRUGGLE}": [
-		"fight",
-		"resist",
-		"struggle"
+		"драться",
+		"сопротивляться",
+		"бороться"
 	],
 	"{SUBMISSIVE}": [
 		"docile",

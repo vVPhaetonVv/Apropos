@@ -1,14 +1,14 @@
 {
     "1st Person" :
     [
-        "{ACTIVE} wants to {RAP}e my {WTANAL} {ASSHOLE} more!"
+       "{ACTIVE} хочет надругаться над моей {ASSOY} подольше!"
     ],
     "2nd Person" :
     [
-        "{ACTIVE} wants to {RAP}e your {WTANAL} {ASSHOLE} more!"
+        "{ACTIVE} хочет надругаться над твоей {ASSOY} подольше!"
     ],
     "3rd Person" :
     [
-        "{ACTIVE} wants to {RAP}e {PRIMARY}'s {WTANAL} {ASSHOLE} more!"
+        "{ACTIVE} хочет надругаться над её {ASSOY} подольше!"
     ]
 }

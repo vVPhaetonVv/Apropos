@@ -594,15 +594,13 @@
 		"prob"
 	],
 	"{PLEADING}": [
-		"Don't",
-		"It hurts",
-		"Let me go",
-		"No",
-		"Please",
-		"Stop",
-		"Wait",
-		"You can't",
-		"You shouldn't"
+		"Не надо",
+		"Больно",
+		"Отпусти",
+		"Нет",
+		"Прошу",
+		"Остановись",
+		"Подожди"
 	],
 	"{PROBE}": [
 		"probe",
@@ -747,16 +745,15 @@
 		"thick"
 	],
 	"{SLOW}": [
-		"deliberate",
-		"gradual",
-		"hesitant",
-		"languid",
-		"lethargic",
-		"quiet",
-		"slow",
-		"sluggish",
-		"unhurried"
-	],    
+		"осторожно",
+		"постепенно",
+		"неспешно",
+		"медленно",
+		"неспешно",
+		"медленно",
+		"понемногу",
+		"момалу"
+	],   
 	"{SODOMIZE}": [
 		"ass-fuck",
 		"butt-fuck",
@@ -791,9 +788,9 @@
 		"rod"
 	],
 	"{STRUGGLE}": [
-		"fight",
-		"resist",
-		"struggle"
+		"драться",
+		"сопротивляться",
+		"бороться"
 	],
 	"{SUBMISSIVE}": [
 		"docile",

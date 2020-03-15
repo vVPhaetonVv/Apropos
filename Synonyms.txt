@@ -664,17 +664,15 @@
 		"violat"
 	],
 	"{ROUGH}": [
-		"aggressive",
-		"brutal",
-		"callous",
-		"cruel",
-		"harsh",
-		"heartless",
-		"merciless",
-		"rough",
-		"ruthless",
-		"savage",
-		"violent"
+		"агрессивно",
+		"жестоко",
+		"грубо",
+		"безжалостно",
+		"резко",
+		"бессердечно",
+		"безпощадно",
+		"жестко",
+		"насильственно"
 	],
 	"{SALTY}": [
 		"acrid",

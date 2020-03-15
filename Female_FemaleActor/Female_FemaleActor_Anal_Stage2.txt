@@ -1,8 +1,8 @@
 {
     "1st Person" :
     [
-        "Oh Gods!! More! Harder! Faster! Treat me like your personal {WHORE}, do what you want with me!!! Yes!",
-        "How far is she going to go? When should I stop her? Oh, it does feel good..."
+        "О боги!! Жестче! Сильнее! Быстрее! Обращайся со мной как со своей личной {WHORE}, делай со мной что захочешь!!! Да!",
+        "Как далеко она собирается зайти? Когда же мне её остановить? Хотя, мне это даже начинает нравиться..."
     ],
     "2nd Person" :
     [

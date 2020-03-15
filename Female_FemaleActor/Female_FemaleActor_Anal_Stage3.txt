@@ -1,8 +1,8 @@
 {
     "1st Person" :
     [
-        "My toes curl and I squeeze my eyes shut as {ACTIVE} bottoms out in my {ASS}.",
-        "I start to get into it, and I go from embarrassment to exhilaration."
+        "Мои пальцы сжимаются, и я закрываю глаза, когда {ACTIVE} входит в мою {ASS}.",
+        "Я начинаю входить в нее, и от смущения плавно перехожу к радостному восторгу."
     ],
     "2nd Person" :
     [

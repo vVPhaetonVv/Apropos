@@ -1,35 +1,36 @@
 {
     "1st Person": [
-        "I'm starting to find it difficult to breathe, the {ACTIVE}'s deep thrusts knocking the wind from me.",
-        "I'm trapped under the {ACTIVE}'s weight, unable to escape as his {COCK} gets steadily deeper.",
-        "My nipples become stiff, betraying my arousal. I don't want this {JERK} to know he's turning me on!",
-        "{PLEADING}... please... ah! {SWEARING}... I'm not even sure what I'm begging for...",
-        "You think you have what it takes to tame me, you {JERK}?",
-        "As the {ACTIVE} {FUCK}s into me, I can feel my orgasm building, and gods help me I don't want him to stop.",
-        "{SWEARING}, stop {FUCK}ing me like that! It's too deep, I can feel it in my stomach!",
-        "({ACTIVE}) I'm gonna show you how a real man {FUCK}s a {BITCH}'s {PUSSY}!",
-        "({ACTIVE}) Your {PUSSY} was made for fucking! I bet that's why you came here, to get {FUCK}ed!",
-        "I don't... care any more... so ah! Fuck me... hard...",
-        "I stifle a {SCREAM}, struggling to take the {ACTIVE}'s {HUGE} {COCK}."
+        «Мне становится трудно дышать, глубокие толчки {ACTIVE} выбивают из меня ветер”.,
+        «Я попала в ловушку под тяжестью {ACTIVE} и не могу убежать, так как его {COCK} становится все глубже.”,
+        «Мои соски становятся жесткими, предавая мое возбуждение. Я не хочу, чтобы {JERK} знал, что он заводит меня!»,
+        "{PLEADING} ... пожалуйста ... ах! {SWEARING} ... Я даже не уверена, за что прошу ...",
+        "Ты думаешь, у тебя есть все, что нужно, чтобы приручить меня, ты {JERK}?",
+        «Поскольку {ACTIVE} {FUCK} проникает в меня, я чувствую, как нарастает мой оргазм, и боги помогают мне, я не хочу, чтобы он останавливался»,
+        "{SWEARING}, перестань {FUCK} меня так трахать! Это слишком глубоко, я чувствую это в животе!",
+        «({ACTIVE}) я покажу вам, как настоящий {{FUCK} мужчина {BUSCH} {PUSSY}!",
+        "({ACTIVE}) Ваш {PUSSY} был создан для того, чтобы трахать! Могу поспорить, что именно поэтому вы пришли сюда, чтобы получить {FUCK} ed!",
+        «Мне больше все равно ... так ах! Трахни меня ... тяжело ...»,
+        «Я подавляю {SCREAM}, изо всех сил пытаясь взять {ACTIVE} {HUGE} {COCK}».
+
     ],
     "2nd Person": [
-        "You're starting to find it difficult to breathe, the {ACTIVE}'s deep thrusts knocking the wind from you.",
-        "You're trapped under the {ACTIVE}'s weight, unable to escape as his {COCK} gets steadily deeper.",
-        "Your nipples become stiff, betraying your arousal. You don't want this {JERK} to know he's turning you on!",
-        "{PLEADING}... please... ah! {SWEARING}... You're not even sure what you're begging for...",
-        "({PRIMARY}) You think you have what it takes to tame me, you {JERK}?",
-        "As the {ACTIVE} {FUCK}s into you, you feel your orgasm building, and gods help me you don't want him to stop.",
-        "({PRIMARY}) {SWEARING}, stop {FUCK}ing me like that! It's too deep, I can feel it in my stomach!",
-        "({ACTIVE}) I'm gonna show you how a real man {FUCK}s a {BITCH}'s {PUSSY}!",
-        "({ACTIVE}) Your {PUSSY} was made for fucking! I bet that's why you came here, to get {FUCK}ed!",
-        "({PRIMARY}) I don't... care any more... so ah! Fuck me... hard...",
-        "You stifle a {SCREAM}, struggling to take the {ACTIVE}'s {HUGE} {COCK}."
+        «Вам становится трудно дышать, глубокие толчки {ACTIVE} выбивают из вас ветер”.,
+        «Вы попали в ловушку под тяжестью {ACTIVE} и не можете убежать, так как его {COCK} становится все глубже.”,
+        "Ваши соски становятся жесткими, предавая ваше возбуждение. Вы не хотите, чтобы {JERK} знал, что он вас заводит!",
+        "{PLEADING} ... пожалуйста ... ах! {SWEARING} ... Вы даже не уверены, за что просите ...",
+        "({PRIMARY}) Вы думаете, что у вас есть все, что нужно, чтобы приручить меня, вы {JERK}?",
+        "Когда {ACTIVE} {FUCK} проникает в тебя, ты чувствуешь, как нарастает оргазм, и боги помогают мне, ты не хочешь, чтобы он остановился.",
+        "({PRIMARY}) {SWEARING}, перестань {FUCK} так меня! Это слишком глубоко, я чувствую это в животе!",
+        «({ACTIVE}) я покажу вам, как настоящий {{FUCK} мужчина {BUSCH} {PUSSY}!",
+        "({ACTIVE}) Ваш {PUSSY} был создан для того, чтобы трахать! Могу поспорить, что именно поэтому вы пришли сюда, чтобы получить {FUCK} ed!",
+        "({PRIMARY}) Мне все равно ... все равно ... так что, ах! Трахни меня ... тяжело ...",
+        «Вы душите {SCREAM}, пытаясь взять {ACTIVE} {HUGE} {COCK}».
     ],
     "3rd Person": [
-        "It's such a powerful sight, for {PRIMARY} to be getting {RAP}ed in such a dominant manner.",
-        "{PRIMARY} starts to strain underneath the {ACTIVE}, his {COCK} getting steadily deeper.",
-        "It's not a fast fuck, but he's getting so deep, each stroke clearly having a huge effect on {PRIMARY}.",
-        "{PRIMARY} is breathing erratically now, as she struggles to take the {ROUGH} pounding.",
-        "{PRIMARY}'s legs are spread wide, her thighs {QUIVERING} with every hard thrust."
+        «Это такое мощное зрелище, потому что {PRIMARY} должен быть {RAP} издан таким доминирующим образом.»,
+         "{PRIMARY} начинает напрягаться под {ACTIVE}, его {COCK} становится все глубже.",
+         «Это не быстрый трах, но он становится таким глубоким, каждый удар явно оказывает огромное влияние на {PRIMARY}».
+         «{PRIMARY} теперь дышит беспорядочно, поскольку она изо всех сил пытается принять {ROUGH} удары».,
+         "{PRIMARY} ноги широко расставлены, бедра {QUIVERING} с каждым жестким толчком."
     ]
 }

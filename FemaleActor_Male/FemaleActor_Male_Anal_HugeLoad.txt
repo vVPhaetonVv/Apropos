@@ -1,14 +1,14 @@
 {
     "1st Person":
     [
-        "I took a {HUGELOAD} load of {CUM} from {ACTIVE} in my {ASSHOLE}!"
+        "{ACTIVE} спускает {HUGELOAD} поток {CUMKOGO} в мою {FAROUSAL}ую {ASSHOLE}у!"
     ],
     "2nd Person":
     [
-        "You took a {HUGELOAD} load of {CUM} from {ACTIVE} in your {ASSHOLE}!"
+        "{ACTIVE} спускает {HUGELOAD} поток {CUMKOGO} в твою {FAROUSAL}ую {ASSHOLE}у!"
     ],
     "3rd Person":
     [
-        "{PRIMARY} took a {HUGELOAD} load of {CUM} from {ACTIVE} in her {ASSHOLE}!"
+        "{ACTIVE} спускает {HUGELOAD} поток {CUMKOGO} в её {FAROUSAL}ую {ASSHOLE}у!"
     ]
 }

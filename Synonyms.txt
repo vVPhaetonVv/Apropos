@@ -97,12 +97,11 @@
 		"сук"
 	],
 	"{BOOBS}": [
-		"boobs",
-		"boobies",
-		"breasts",
-		"jugs",
-		"tits",
-		"titties"
+		"сиск",
+		"сисечк",
+		"груд",
+		"дойк",
+		"округлост"
 	],
 	"{BREED}": [
 		"breed",

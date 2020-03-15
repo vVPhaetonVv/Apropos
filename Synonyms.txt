@@ -594,15 +594,13 @@
 		"prob"
 	],
 	"{PLEADING}": [
-		"Don't",
-		"It hurts",
-		"Let me go",
-		"No",
-		"Please",
-		"Stop",
-		"Wait",
-		"You can't",
-		"You shouldn't"
+		"Не надо",
+		"Больно",
+		"Отпусти",
+		"Нет",
+		"Прошу",
+		"Остановись",
+		"Подожди"
 	],
 	"{PROBE}": [
 		"probe",
